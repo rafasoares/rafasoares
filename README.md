@@ -3,11 +3,11 @@
 # Hi there, I'm Rafael 
 <sup>(he/him)</sup>
 
-I'm currently a Sr Full Stack Developer at [GapFish](https://gapfish.com/)/[Cint](https://www.cint.com/). Been doing this for more than 15 years. [^1]
+I'm currently a Sr Full Stack Developer at [Propstack](https://www.propstack.de) (part of the [Scout24](https://www.scout24.com) group). Been doing this for more than 15 years. [^1]
 
 [^1]: I remember the days before jQuery and Tableless (do people even remember that term?). I don't miss them. 🤣
 
-My (web) stack of choice is Ruby on Rails (API) with Vue.js (using Vite), always trying to keep myself up to date and using the latest versions, standards and good practices.
+My (web) stack of choice is Ruby on Rails (API) with Vue 3 (using Vite), always trying to keep myself up to date and using the latest versions, standards and good practices.
 
 Sometimes I dabble in Game Development with Unreal Engine (4 and 5) and Godot. I've also been known to experiment with Languages like Kotlin and Rust. Trying to get my feet wet with Minecraft modding, but it's... A challenge. 😅
 
