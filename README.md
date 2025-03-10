@@ -3,7 +3,7 @@
 # Hi there, I'm Rafael 
 <sup>(he/him)</sup>
 
-I'm currently a Sr Full Stack Developer at [Propstack](https://www.propstack.de) (part of the [Scout24](https://www.scout24.com) group). Been doing this for more than 15 years. [^1]
+I'm currently a Sr Full Stack Developer at @chartmogul. Been doing this for more than 20 years. [^1]
 
 [^1]: I remember the days before jQuery and Tableless (do people even remember that term?). I don't miss them. 🤣
 
